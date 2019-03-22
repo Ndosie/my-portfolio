@@ -1,5 +1,7 @@
-This project was created as part of Course work for Andela Learning community - OpenClassroms Platform
+# Simple App
+
+- This project was generated with ReactJS Framework.
 
 ## Project Link
 
-View the project through [https://ndosie.github.io/my-portfolio] (https://ndosie.github.io/my-portfolio)
+- Go to [Esther Ndosi](https://ndosie.github.io/my-portfolio) to view my portfolio.
